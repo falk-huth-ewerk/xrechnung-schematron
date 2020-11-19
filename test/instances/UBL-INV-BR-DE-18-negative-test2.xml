@@ -106,7 +106,8 @@
                 description="Every basisbetrag has to be formed as an amount type" ?>
         <cbc:Note>#SKONTO#TAGE=7#PROZENT=2.00#
 #SKONTO#TAGE=14#PROZENT=1.00#BASISBETRAG=23#
-#SKONTO#TAGE=30#PROZENT=0.00#</cbc:Note>
+#SKONTO#TAGE=30#PROZENT=0.00#
+        </cbc:Note>
     </cac:PaymentTerms>
     <cac:TaxTotal>
         <cbc:TaxAmount currencyID="EUR">414.2</cbc:TaxAmount>
